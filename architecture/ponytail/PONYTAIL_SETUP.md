@@ -1,7 +1,7 @@
 # PONYTAIL_SETUP.md
 
-Version: 1.0
-Status: Recommended
+Version: 1.0  
+Status: Recommended  
 
 ---
 
